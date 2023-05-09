@@ -20,21 +20,15 @@
 </p>  
 
 ## 🛠 Languages and Tools
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-808080?style=flat-square&logo=assembly&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Network](https://img.shields.io/badge/-Network-0078D7?style=flat-square&logo=cisco&logoColor=white)
-![OS](https://img.shields.io/badge/-Operating%20Systems-0078D7?style=flat-square&logo=windows&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-4d4d4d?style=flat-square)
+<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/-IDA%20Pro-030303?style=flat-square&logo=ida-pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vm%20Box-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Detected%20easy-2980B9?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Procmon-9B59B6?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PE%20View-FFA07A?style=flat-square&logoColor=white" />
+<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+<a href="https://flutter.dev" title="Flutter"><img src="https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
+	<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+<a href="https://dart.dev" title="Dart"><img src="https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
 </p>
