@@ -31,6 +31,4 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedabbas75&theme=tokyonight_duo" alt="Ahmedabbas75" /></p> <br/>
 <p align="center">
  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Ahmedabbas75's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmedabbas75&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="250px width = "150"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedabbas75&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Ahmedabbas75" height="250px"/>
+
