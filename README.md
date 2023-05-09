@@ -2,8 +2,7 @@
 <h3 align="center"> Data Science & Machine Learning  </h3>
 
 </p>
-<br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px hight= 100px />
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px hight= 150px />
 
 -  I am a `Computer Science Student` from Faculty of Computers & Information at Mansoura University
 -  I’m currently studing `Data Science & Machine Learning `
