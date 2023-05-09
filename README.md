@@ -18,6 +18,10 @@
 <a href="ahmedmohmmed.std75@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/profile.php?id=100045336682497" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
  <a href="https://tinyurl.com/m4p9beyn" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+ 
+</p>
+Feel free to reach out to me on any of these platforms, I'd love to connect with you!
+
 </p>  
 
 ## 🛠 Languages and Tools
