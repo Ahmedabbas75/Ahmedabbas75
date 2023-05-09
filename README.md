@@ -3,6 +3,7 @@
 
 </p>
 <br>
+
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 -  I am a `Computer Science Student` from Faculty of Computers & Information at Mansoura University
@@ -20,4 +21,7 @@
 </p>  
 
 ## 🛠 Languages and Tools
+<br>
+<p align="center">
+<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 
