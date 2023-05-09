@@ -20,10 +20,10 @@
 ##  Skills
 ### Problem Solving
 <a href="https://leetcode.com/Ahmedabbas75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Ahmedabbas75/" height="30" width="40" /></a>
-</p>
+
 <a href="https://codeforces.com/profile/Ahmedabbas75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Ahmedabbas75" height="30" width="40" /></a>
 
-
+</p>
 
 ## 📩 Connect with me
 <a href="https://www.linkedin.com/in/ahmed-abbas-137a8a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BubF9O%2BKwQGKDtr9yO5v%2FIQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://tinyurl.com/m4p9beyn](https://www.linkedin.com/in/ahmed-abbas-137a8a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BubF9O%2BKwQGKDtr9yO5v%2FIQ%3D%3D)" height="30" width="40" /></a>
