@@ -22,6 +22,7 @@
 </p>
 Feel free to reach out to me on any of these platforms, I'd love to connect with you!
 
+<br>
 </p>  
 
 ## 🛠 Languages and Tools
