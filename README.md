@@ -16,7 +16,7 @@
 <a href="ahmedmohmmed.std75@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/profile.php?id=100045336682497" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://linkedin.com/in/https://tinyurl.com/m4p9beyn" target="blank"><img align="center" 
- 
+ <a href="https://www.leetcode.com/https://leetcode.com/ahmedabbas75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmedabbas75" height="30" width="40" /></a>
 </p>  
 
 ## 🛠 Languages and Tools
