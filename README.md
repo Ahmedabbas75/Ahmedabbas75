@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed abbbas </h1>
 <h3 align="center"> Data Science & Machine Learning  </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmedabbas75&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmedabbas75" />
-		   <img src="https://img.shields.io/github/followers/Ahmedabbas75?label=Followers" alt="Ahmedabbas75" />
-
 </p>
 <br>
 
