@@ -21,6 +21,8 @@
 <a href="https://www.facebook.com/profile.php?id=100045336682497&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[https://www.facebook.com/profile.php?id=100045336682497](https://www.facebook.com/profile.php?id=100045336682497&mibextid=ZbWKwL" height="30" width="40"/></a>
  
  ## 📊 Github Stats
+ [![Ahmedavvas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyadwaelll&show_icons=true&theme=radical)](https://github.com/Eyadwaelll/github readme-stats)
+<table><tr><td valign="top" width="50%">
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedabbas75&theme=tokyonight_duo" alt="Ahmedabbas75" /> </p> <br/>
 <p align="center">
  
