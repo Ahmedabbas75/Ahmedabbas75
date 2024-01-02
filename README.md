@@ -6,10 +6,10 @@
 </p>
 <br>
 
--  I’m a **Computer Science Student** from Faculty of Computers & Information at Mansoura University
--  I’m currently studing **Data Science & Machine Learning**
--  Always **learning new things**
--  Doing my best 
+-  **I’m a Computer Science Student from Faculty of Computers & Information at Mansoura University**
+-  **I’m currently studing Data Science & Machine Learning**
+-  **Always learning new things**
+-  **Doing my best** 
 
 ## 🛠 Languages and Tools
 <br>
