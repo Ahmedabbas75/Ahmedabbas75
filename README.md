@@ -4,12 +4,14 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmedabbas75&theme=" alt="Ahmedabbas75" /></a> </p>
 </p>
+
 <br>
 
 -  **I’m a Computer Science Student from Faculty of Computers & Information at Mansoura University**
 -  **I’m currently studing Data Science & Machine Learning**
 -  **Always learning new things**
 -  **Doing my best** 
+<br>
 
 ## 🛠 Languages and Tools
 <p align="left">
