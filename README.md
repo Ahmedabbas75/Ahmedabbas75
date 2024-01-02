@@ -8,8 +8,8 @@
 <br>
 
 -  **I’m a Computer Science Student from Faculty of Computers & Information at Mansoura University**
--  **I’m currently studing Data Science & Machine Learning**
 -  **Ask me about Computer Science, Problem Solving, Python, Data Analysis, Machine Learning**
+-  **I’m currently studing Data Science & Machine Learning**
 -  **How to reach me** **ahmedmassa.757.pyf@gmail.com**
 <br>
 
@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/ahmed-abbas-137a8a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BubF9O%2BKwQGKDtr9yO5v%2FIQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://tinyurl.com/m4p9beyn](https://www.linkedin.com/in/ahmed-abbas-137a8a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BubF9O%2BKwQGKDtr9yO5v%2FIQ%3D%3D)" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100045336682497&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[https://www.facebook.com/profile.php?id=100045336682497](https://www.facebook.com/profile.php?id=100045336682497&mibextid=ZbWKwL" height="30" width="40"/></a>
 <a href="https://kaggle.com/Ahmedabbas757" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt=Ahmedabbas757" height="30" width="40" /></a>
-<a href="https://leetcode.com/Ahmedabbas75" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://leetcode.com/Ahmedabbas75" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leetcode.svg" alt="LeetCode Profile" height="30" width="30" /></a>
 ><a href="https://instagram.com/Ahmed__abbas75" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Ahmed__abbas75" height="30" width="40" /></a>
  
 
