@@ -7,7 +7,7 @@
 <br>
 
 -  I am a **Computer Science Student** from Faculty of Computers & Information at Mansoura University
--  I’m currently studing **Data Science & Machine Learning **
+-  I’m currently studing **Data Science & Machine Learning**
 -  Always **learning new things**
 -  Doing my best 
 
