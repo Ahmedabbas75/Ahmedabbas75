@@ -33,7 +33,7 @@
 
 ## 📩 Connect with me
 <br>
-<a href="mailto:ahmedmassa.757.pyf@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="ahmedmassa.757.pyf@gmail.com" height="30" width="40" /></a>
+<a href="mailto:ahmedmassa.757.pyf@gmail.com" target="_blank"><img align="center" src="GMAIL_ICON_URL_HERE" alt="ahmedmassa.757.pyf@gmail.com" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmed-abbas-137a8a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BubF9O%2BKwQGKDtr9yO5v%2FIQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://tinyurl.com/m4p9beyn](https://www.linkedin.com/in/ahmed-abbas-137a8a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BubF9O%2BKwQGKDtr9yO5v%2FIQ%3D%3D)" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100045336682497&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[https://www.facebook.com/profile.php?id=100045336682497](https://www.facebook.com/profile.php?id=100045336682497&mibextid=ZbWKwL" height="30" width="40"/></a>
 <a href="https://kaggle.com/Ahmedabbas757" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt=Ahmedabbas757" height="30" width="40" /></a>
